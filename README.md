@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <body background="file:///C:/Users/asree/OneDrive/Pictures/Saved%20Pictures/download%20(3).jpg">
 <h1 align="center"> My clock </h1>
